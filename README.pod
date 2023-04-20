@@ -11,7 +11,7 @@ F<bscan> - print a date-time tag in form C<YYYY-MM-DD-hhmmss>
 
 =head1 AUTHOR
 
-Vlado Keselj vlado@dnlp.ca http://vlado.ca
+BWC opensource@barca.com https://cloud.barca.com/
 
 =head1 LICENSE
 
