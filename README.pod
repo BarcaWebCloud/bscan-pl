@@ -1,6 +1,6 @@
 =head1 NAME
 
-App::Utils - some useful command-line utilities
+BScan::Utils - some useful command-line utilities
 
 =head1 DESCRIPTION
 
@@ -21,7 +21,7 @@ Perl License (perl)
 
 Using C<cpan>:
 
- $ cpan App::Utils
+ $ cpan BScan::Utils
 
 Manual install:
 
